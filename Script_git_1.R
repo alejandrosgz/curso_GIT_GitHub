@@ -13,3 +13,9 @@
 # gitcreds_set() # acceder al Git credential store --> introducir el token generado
 
 
+
+git status
+
+ 
+
+
